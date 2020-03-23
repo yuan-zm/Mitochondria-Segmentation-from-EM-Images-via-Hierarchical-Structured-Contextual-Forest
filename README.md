@@ -2,7 +2,7 @@
  Mitochondria Segmentation from EM Images via Hierarchical Structured Contextual Forest
 
 This project contains the code used for the experiments in the paper:
-"Mitochondria segmentation from EM images via hierarchical structured contextual forest." in JBHI, by Zhimin Yuan, Jialin Peng.
+"Mitochondria segmentation from EM images via hierarchical structured contextual forest." in JBHI, by Jialin Peng and Zhimin Yuan.
 
 You can run this code on Linux or Windows.
 
@@ -13,7 +13,7 @@ Segmentation Result
 -----
 The final segmentation result of our 3D segmentation framework is also contained. Please open the 'pro.mat' in Matlab.
 
-The other code (Hierarchical multi-view fusion: a pseudo 3D variant) will be release soon.
+The other code and segmentation result(Hierarchical multi-view fusion: a pseudo 3D variant) will be release soon.
 
 Citation
 -----
