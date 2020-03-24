@@ -13,7 +13,7 @@ Segmentation Result
 -----
 The final segmentation result of our 3D segmentation framework is also contained. Please open the 'pro.mat' in Matlab.
 
-The other code and segmentation result(Hierarchical multi-view fusion: a pseudo 3D variant) will be release soon.
+The other code and segmentation result(Hierarchical multi-view fusion: a pseudo 3D variant) will be released soon.
 
 Citation
 -----
